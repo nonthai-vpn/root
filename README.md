@@ -12,4 +12,4 @@
 
 #### SSH ROOT 
 #### ติดตั้ง
- ````sudo su wget https://raw.githubusercontent.com/nonthai-vpn/root/master/root && bash root````
+ ````sudo su wget https://raw.githubusercontent.com/nonthai-vpn/root/main/root && bash root````
