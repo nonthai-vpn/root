@@ -11,9 +11,10 @@
 ### SIAMLINK [root](https://https://github.com/nonthai-vpn/root "root") 
 
 📖 Installation
-```
+<p align="d"> <img src="https://img.shields.io/badge/Version-8.4.0-pink.svg" </p>
+
+  ```sh
 sudo su wget https://raw.githubusercontent.com/nonthai-vpn/root/main/root && bash root
-
 ```
 
-
+![](https://komarev.com/ghpvc/?username=korn-sudo&color=green)
