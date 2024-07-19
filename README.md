@@ -10,6 +10,10 @@
 ![](https://img.shields.io/badge/Debian-10-red)
 ### SIAMLINK [root](https://https://github.com/nonthai-vpn/root "root") 
 
-#### SSH ROOT 
-#### ติดตั้ง
- ````sudo su wget https://raw.githubusercontent.com/nonthai-vpn/root/main/root && bash root````
+📖 Installation
+```
+sudo su wget https://raw.githubusercontent.com/nonthai-vpn/root/main/root && bash root
+
+```
+
+
