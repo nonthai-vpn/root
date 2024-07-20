@@ -17,4 +17,10 @@
 sudo su wget https://raw.githubusercontent.com/nonthai-vpn/root/main/root && bash root
 ```
 
-![](https://komarev.com/ghpvc/?username=korn-sudo&color=green)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?nonthai-vpn=DenverCoder1)](https://git.io/streak-stats)
+
+
+
+
